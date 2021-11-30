@@ -1,0 +1,55 @@
+#icon{
+    width: 25px;
+    height: 25px;
+}
+body{
+    text-align: center;
+    background-color: turquoise;
+}
+#lens{
+    color: red;
+    font-size: 20px !important;
+    font: small-caption;
+}
+#mobi{
+    background-color: rgb(0, 132, 255);
+    font-size: 20px !important;
+    font: small-caption;
+    width: 8%;
+    margin-left: 695px;
+}
+#bottle{
+    width: 300px;
+    border: black;
+    border-radius: 50%;
+    border-style: dotted;
+    border-width: 3px;
+}
+.result-1-label{
+    background-color: turquoise;
+    border-radius: 10px;
+    top: 0;
+    font-size: 18px;
+    margin-top: 10px;
+}
+#result_1{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width:800px;
+align-items: center;
+}
+.results_are{
+    color: black;
+}
+
+  #mouse{
+    width: 300px;
+    float: left;
+  }
+  #result_1 img{
+    float: left;
+  }
+  .results{
+    color: black;
+    padding-bottom: 300px;
+  }
